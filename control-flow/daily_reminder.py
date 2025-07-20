@@ -1,7 +1,7 @@
-# Ask the user to enter task description
-task= input("Enter your task: ")
-priority= input("Priority (high/medium/low): ")
-time_bound= input("Is it time-bound? (yes or no): ")
+#Ask the user to enter task description
+task = input("Enter your task: ")
+priority = input("Priority (high/medium/low): ")
+time_bound = input("Is it time-bound? (yes/no): ")
 
 #Executing the code
 
